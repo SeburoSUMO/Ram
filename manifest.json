@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "version": "2.0",
+  "name": "RAM",
+  "theme": {
+    "images": {},
+    "properties": {},
+     "colors": {
+      "toolbar": "rgb(20, 17, 26)",
+      "bookmark_text": "rgb(0, 200, 215)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(0, 200, 215)",
+      "toolbar_field": "rgb(20, 17, 26)",
+      "toolbar_field_text": "rgb(0, 200, 215)",
+      "toolbar_field_border": "rgb(0, 200, 215)",
+      "toolbar_field_border_focus": "rgb(0, 200, 215)",      
+      "ntp_background": "rgb(20, 17, 26)",
+      "ntp_background_text": "rgb(0, 200, 215)",
+      "ntp_text": "rgb(0, 200, 215)",
+      "tab_line": "rgb(0, 200, 215)",
+      "popup": "rgb(20, 17, 26)",
+      "popup_text": "rgb(0, 200, 215)",
+      "tab_loading": "rgb(0, 200, 215)"
+    }
+  }
+}
